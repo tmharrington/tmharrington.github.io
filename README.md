@@ -6,7 +6,7 @@ The most significant piece of work contained in this page is the analysis of ind
 
 ## Palmer Penguines analysis
 ### introduction
-Rstudio code can be found [here](https://github.com/tmharrington/BioStatisticalAnalysis/PalmerPenguins_Initial.html)
+Rstudio code can be found [here](https://tmharrington.github.io/BioStatisticalAnalysis/PalmerPenguins_Initial.html)
 
 ### analysis
 
@@ -14,7 +14,7 @@ Rstudio code can be found [here](https://github.com/tmharrington/BioStatisticalA
 
 ## Invertebrate analysis
 ### introduction
-Rstudio code can be found [here](https://github.com/tmharrington/BioStatisticalAnalysis/InvertAnalysis.html)
+Rstudio code can be found [here](https://tmharrington.github.io/BioStatisticalAnalysis/BioStatisticalAnalysis/InvertAnalysis.html)
 
 ### analysis
 
@@ -22,7 +22,7 @@ Rstudio code can be found [here](https://github.com/tmharrington/BioStatisticalA
 
 ## Indoor Air Pollution analysis 
 ### introduction
-Rstudio code can be found [here](https://github.com/tmharrington/BioStatisticalAnalysis/IndoorPollution.html)
+Rstudio code can be found [here](https://tmharrington.github.io/BioStatisticalAnalysis/IndoorPollution.html)
 
 ### analysis
 
