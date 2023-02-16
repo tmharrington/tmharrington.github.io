@@ -14,7 +14,7 @@ Rstudio code can be found [here](https://tmharrington.github.io/BioStatisticalAn
 
 ## Invertebrate analysis
 ### introduction
-Rstudio code can be found [here](http://github.com/tmharrington.github.io/BioStatisticalAnalysis/BioStatisticalAnalysis/InvertAnalysis.html)
+Rstudio code can be found [here](http://tmharrington.github.io/BioStatisticalAnalysis/InvertAnalysis.html)
 
 ### analysis
 
