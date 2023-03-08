@@ -19,7 +19,7 @@ The most significant piece of work contained in this page is the analysis of ind
 ### Abstract
   This Workbook contains an analysis of Palmer Penguins to determine correlations present in the dataset containing 8 variables including year, region, gender, and physical characteristics like bill length and height, body mass, and flipper length. A exploratory dataset was generated using a random set of half the total variables to find any potential correlations that can be inferred with the full dataset. Statistical analysis was performed in tables and graphs, and found several interesting correlations, including that between species and island, species and bill length, and between flipper size and bill length for gentoo penguins.   
 
-### [Analysis](https://tmharrington.github.io/BioStatisticalAnalysis/PalmerPenguins_Initial.html)
+### [Analysis](https://github.com/tmharrington/BioStatisticalAnalysis/blob/main/PalmerPenguins_Initial.md)
 
 
 ## Invertebrate analysis
