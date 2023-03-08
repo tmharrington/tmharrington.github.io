@@ -10,8 +10,8 @@ The most significant piece of work contained in this page is the analysis of ind
   This journal contains some useful examples of how to run basic statistics functions using the base RStudio software. These workbook have been developed over the first half of ENV 220 Field Methods and Technologies. The methods of statistical analysis that are described in this section include functions for linear regression, t-testing and ANOVA testing. These resources are valuable for understanding the coding and statistical formulas that can be used in RStudio to make inferential statements from a dataset.
   
   ### [linear Regression]()
-  ### [T-testing](http://tmharrington.github.io/FieldMethodsandTechnologies/T_Test_in_RStudio.html)
-  ### [ANOVA](https://tmharrington.github.io/FieldMethodsandTechnologies/ANOVA_in_RStudio.html)
+  ### [T-testing](https://github.com/tmharrington/FieldMethodsandTechnologies/blob/main/T_Test_in_RStudio.html)
+  ### [ANOVA](https://github.com/tmharrington/FieldMethodsandTechnologies/blob/main/ANOVA_in_RStudio.html)
 
 
 ## Palmer Penguines analysis
@@ -26,14 +26,14 @@ The most significant piece of work contained in this page is the analysis of ind
 
 ### Abstract
 
-### [Analysis](https://tmharrington.github.io/BioStatisticalAnalysis/InvertAnalysis.html)
+### [Analysis](https://github.com/tmharrington/BioStatisticalAnalysis/blob/main/InvertAnalysis.html)
 
 
 ## Indoor Air Pollution analysis
 
 ### Abstract
 
-### [Analysis](https://tmharrington.github.io/BioStatisticalAnalysis/IndoorPollution.html)
+### [Analysis](https://github.com/tmharrington/BioStatisticalAnalysis/blob/main/IndoorPollution.html)
 
 
 ## SNHU Arboretum Stream Pollution Analysis
@@ -46,6 +46,6 @@ The most significant piece of work contained in this page is the analysis of ind
 
 ### Abstract
 
-### [Informative Workbook](https://tmharrington.github.io/BIO4ST1_Group1/Replication_Trevor_Harrington.html)
+### [Informative Workbook](https://github.com/agmath/BIO4ST1_Group1/blob/main/Replication_Trevor_Harrington.html)
 
 ### [Analysis]
