@@ -9,9 +9,9 @@ The most significant piece of work contained in this page is the analysis of ind
 ### Introduction
   This journal contains some useful examples of how to run basic statistics functions using the base RStudio software. These workbook have been developed over the first half of ENV 220 Field Methods and Technologies. The methods of statistical analysis that are described in this section include functions for linear regression, t-testing and ANOVA testing. These resources are valuable for understanding the coding and statistical formulas that can be used in RStudio to make inferential statements from a dataset.
   
-  ### [linear Regression](https://github.com/tmharrington/FieldMethodsandTechnologies/blob/main/Lin_Regression_in_RStudio.md)
-  ### [T-testing](https://github.com/tmharrington/FieldMethodsandTechnologies/blob/main/T_Test_in_RStudio.md)
-  ### [ANOVA](https://github.com/tmharrington/FieldMethodsandTechnologies/blob/main/ANOVA_in_RStudio.md)
+  ### [linear Regression](https://tmharrington.github.io/FieldMethodsandTechnologies/Lin_Regression_in_RStudio.md)
+  ### [T-testing](https://tmharrington.github.io/FieldMethodsandTechnologies/T_Test_in_RStudio.md)
+  ### [ANOVA](https://tmharrington.github.io/FieldMethodsandTechnologies/ANOVA_in_RStudio.md)
 
 
 ## Palmer Penguines analysis
@@ -19,21 +19,21 @@ The most significant piece of work contained in this page is the analysis of ind
 ### Abstract
   This Workbook contains an analysis of Palmer Penguins to determine correlations present in the dataset containing 8 variables including year, region, gender, and physical characteristics like bill length and height, body mass, and flipper length. A exploratory dataset was generated using a random set of half the total variables to find any potential correlations that can be inferred with the full dataset. Statistical analysis was performed in tables and graphs, and found several interesting correlations, including that between species and island, species and bill length, and between flipper size and bill length for gentoo penguins.   
 
-### [Analysis](https://github.com/tmharrington/BioStatisticalAnalysis/blob/main/PalmerPenguins_Initial.md)
+### [Analysis](https://tmharrington.github.io/BioStatisticalAnalysis/PalmerPenguins_Initial.html)
 
 
 ## Invertebrate analysis
 
 ### Abstract
 
-### [Analysis](https://github.com/tmharrington/BioStatisticalAnalysis/blob/main/InvertAnalysis.md)
+### [Analysis](https://tmharrington.github.io/BioStatisticalAnalysis/InvertAnalysis.html)
 
 
 ## Indoor Air Pollution analysis
 
 ### Abstract
 
-### [Analysis](https://github.com/tmharrington/BioStatisticalAnalysis/blob/main/IndoorPollution.md)
+### [Analysis](https://tmharrington.github.io/BioStatisticalAnalysis/IndoorPollution.html)
 
 
 ## SNHU Arboretum Stream Pollution Analysis
@@ -46,6 +46,6 @@ The most significant piece of work contained in this page is the analysis of ind
 
 ### Abstract
 
-### [Informative Workbook](https://github.com/agmath/BIO4ST1_Group1/blob/main/Replication_Trevor_Harrington.md)
+### [Informative Workbook](https://agmath.github.io/BIO4ST1_Group1/Replication_Trevor_Harrington.html)
 
 ### [Analysis]
