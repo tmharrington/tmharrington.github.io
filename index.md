@@ -28,6 +28,8 @@ The most significant piece of work contained in this page is the analysis of ind
 ---
 ## Invertebrate analysis
 
+  This notebook is used to investigate the practice of data cleaning and organizing. The dataset was gathered by Dr. Duryea at Lamoille Creek in Lamoille, NV. 
+
 ### Abstract
 
 ### [Analysis](https://tmharrington.github.io/BioStatisticalAnalysis/InvertAnalysis.html)
