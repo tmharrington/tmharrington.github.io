@@ -11,9 +11,9 @@ The most significant piece of work contained in this page is the analysis of ind
 ### Introduction
   This journal contains some useful examples of how to run basic statistics functions using the base RStudio software. These workbook have been developed over the first half of ENV 220 Field Methods and Technologies. The methods of statistical analysis that are described in this section include functions for linear regression, t-testing and ANOVA testing. These resources are valuable for understanding the coding and statistical formulas that can be used in RStudio to make inferential statements from a dataset.
   
-  ### [linear Regression](https://tmharrington.github.io/FieldMethodsandTechnologies/Lin_Regression_in_RStudio.md)
-  ### [T-testing](https://tmharrington.github.io/FieldMethodsandTechnologies/T_Test_in_RStudio.md)
-  ### [ANOVA](https://tmharrington.github.io/FieldMethodsandTechnologies/ANOVA_in_RStudio.md)
+  ### [linear Regression](https://tmharrington.github.io/FieldMethodsandTechnologies/Lin_Regression_in_RStudio.html)
+  ### [T-testing](https://tmharrington.github.io/FieldMethodsandTechnologies/T_Test_in_RStudio.html)
+  ### [ANOVA](https://tmharrington.github.io/FieldMethodsandTechnologies/ANOVA_in_RStudio.html)
   
   
 ---
