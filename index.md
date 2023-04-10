@@ -50,8 +50,8 @@ This research paper investigates the impact of indoor air pollution on premature
 ### Abstract
 This study aimed to evaluate the impact of water source proximity on tree size and estimate carbon sequestration in the SNHU Arboretum. Two 5x5 meter plots were selected, one near a seasonal second-order stream and the other distant from it. Diameter at breast height (DBH) was measured for five trees in each plot, and biomass was estimated using the allometric scaling equation. Tree density was calculated to estimate the amount of CO2 sequestered by the arboretum. The t-test revealed no significant difference between the mean DBH of trees near water (mean = 37.36 cm) and those distant from water (mean = 45.32 cm) at the 95% confidence level. The small sample size may have affected the results, suggesting that a larger sample size and tree height measurements could improve accuracy. This study serves as a low-confidence example of CO2 calculation but accurately illustrates the process.
 
-### [Part 1](https://tmharrington.github.io/FieldMethodsandTechnologies/Pollution_Project_Part_1.html)
-
+### [Part 1: DBH Comparison](https://tmharrington.github.io/FieldMethodsandTechnologies/Pollution_Project_Part_1.html)
+### [Part 2: Soil Sample Analysis](https://tmharrington.github.io/FieldMethodsandTechnologies/Arboretum_Project_2.html)
 
 ---
 ## Bioinformatics: Replication Origin Analysis
