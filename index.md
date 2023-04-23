@@ -56,14 +56,25 @@ This study aimed to evaluate the impact of water source proximity on tree size a
 ---
 ## Bioinformatics: Replication Origin Analysis
 
-### Abstract
 As a student delving into the fascinating world of genomics, this RMarkdown showcases the code built over the semester that explores various functions and techniques for analyzing genomic patterns. This document aims to provide a comprehensive guide for understanding and identifying the replication origin of bacterial genomes using RStudio.
 
-The RMarkdown document covers a range of essential topics and functions that provide valuable insights into the structure and characteristics of bacterial genomes. The primary focus of this project is the identification of patterns in genomic data that can be used for identifying the location of the origin -- The part of the bacterial genome where replication begins. 
+The RMarkdown document covers a range of essential topics and functions over six chapters, which build the knowledge and tools needed to utilize RStudio in the pursuit of uncovering patterns in a bacterial genome. Bacterial genomes range in length, but can easily exceed lengths that these methods can quickly process; for this reason, randomized genomes and Rosalalind Challenges will be used to identify that code works successfully. The goal of this  
 
+- **Chapter One**  Opens with demonstrating how to generate a randomized sequence of nucleotides in a vector array, followed by an introduction to loops. The `randomized genome` will be utilized throughout this notebook for testing the functions created before applying them to an entire genome. 
+  This chapter closes with an introduction to **Rosalind Challenges** which will help identify that the functions generated will work successfully if applied to a longer genome. After identifying functionality of the `Sum Nucleotides` code that calculates how many of each nucleotide is present, the code is used to calculates the sums for a **Vibrio Cholera genome**.
 
+- **Chapter Two** Begins with learning how to use functions in R to save the codes developed for future use, begining with `rnd_genome` that outputs the same randomized genome as developed in chapter 1. The chapter begins applying the genome for segmenting the data by different lengths, ending in a `generate_k_mers" and `nt_pattern`, which finds k-mers that match an user-input string. This code was successfull when testing with the **Rosalind Challenge**, but never tested on a genome. 
 
-### [Informative Workbook](https://agmath.github.io/BIO4ST1_Group1/Replication_Trevor_Harrington.html)
+- **Chapter Three** Introduces **Complementary Strands** and how to generate them for a randomized genome. Complementary strands are antiparrelel, meaning the string must be both flipped in direction (5' -> 3') as well as replaced with the complementary nucleotide. 
 
-### [Analysis]
+- **Chapter Four** Introduces `Clump Finding` function, which is designed to look for repeating sequences of nucleotides inside a window of a user-defined length within a genome. This function is necessary to locate the *Origin of Replication* (OriC) identified with the **dnaA box**. DnaA boxes are specific DNA sequences that are recognized by the DnaA protein, which plays a crucial role in initiating DNA replication in bacteria. The binding of DnaA to these boxes helps to unwind and separate the DNA strands, allowing for the replication machinery to begin copying the DNA. The number and location of DnaA boxes can vary among bacterial species, but they are generally located near the origin of replication.
+
+  - While this code did successfully complete the Rosalind string, the attempt to run it on a **E Coli genome** proved unsuccessfull do to the length of time required work through the genome without improving computational efficiency. A number of methods could be used to improve the run-time of this code, namely changing the character string into a numerical vector, or introducting a R package like `Stringr` or `Stringi`. 
+
+- **Chapter Five** Provides a introduction to `skew`, and contains the only visualizion used to demonstrate the biology of these concepts. In DNA sequencing, **skew** refers to the difference in frequency between two nucleotides (typically Guanine and Cytosine) along a DNA sequence. By calculating the "GC skew" (i.e., the difference between the frequency of G and C nucleotides), it is possible to identify a region of the genome where the skew changes from positive to negative, which often indicates the location of the origin of replication. the graph shows the skew for the **E Coli genome** which provides a very clear visual example of how this method can be utilized to identify a specific region of the genome where the Origin of Replication is most likely to be found.
+
+- **Chapter Six** Is the final chapter of this notebook, and introduces a `Hamming Distance` function that can identify the difference between two strings being compared. This code can account for mutations in a bacterial genome, and provide a user defined tolerance for how many mutations are permitted. Hamming distance is then used to improve the functionality of `Nucleotide Pattern" function to search through a genome with a tollerance for mutations. This step, combined with skew, will be critical for improving the functionality of the `clump finding` function by both improving the recognition (`hamming distances`) and narrowing the search field (`skew`).
+
+### [Workbook](https://agmath.github.io/BIO4ST1_Group1/Replication_Trevor_Harrington.html)
+
 
